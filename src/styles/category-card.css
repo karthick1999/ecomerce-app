@@ -1,0 +1,20 @@
+.Category-card-parent{
+    width: 300px;
+    height: 300px;
+    margin: 2%;
+    border-radius: 6px; 
+    border: 1px solid ;
+}
+.top-card{
+height: 70%; 
+border: none !important;
+}
+.top-card img{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+.bottom-card{
+height: 20%; 
+text-align: center;
+}

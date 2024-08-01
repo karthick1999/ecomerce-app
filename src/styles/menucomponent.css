@@ -1,0 +1,28 @@
+.menu-parent{
+    display: flex; 
+    width: 90%; 
+    justify-content: space-between;
+    margin: 0% 2%;
+}
+
+
+.left-conatiner{
+    width: 90%;
+}
+.menu-conatiner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid;
+    margin: 1%;
+    padding: 1%;
+}
+.menu-list-container{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.calculation-container{
+    border: 1px solid ;
+    padding: 2%;
+}
